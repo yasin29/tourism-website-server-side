@@ -18,4 +18,7 @@ This server is connected to mongodb and deployed to heroku and ready to serve an
 2. User can `get` Villas, bookings, activities data.
 3. User can `delete` villas data.
 4. User can `Update` data in bookings status
+5. You can see villas data using `/villas`.
+6. You can see activities data using `/activities`
+7. You can see bookings data using `/bookings`
 
